@@ -35,7 +35,7 @@ input{
     background-color: white; 
     line-height: 50px;  
     padding:0 10px;
-    height: 400px;
+    /* height: 400px; */
 }
 p button{
     margin-left: 150px;
